@@ -37,3 +37,5 @@ test('get only completes tasks', () => {
     expect(completedTasks[0].title).toBe('Milk');
     expect(completedTasks[1].title).toBe('Sugar');
 })
+
+export{}
